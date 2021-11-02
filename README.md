@@ -1,7 +1,7 @@
 # combine-csv
 
 
-Assumtption:  
+## Assumtption:  
 	* The following directory structure exists:
 			combine-csv
 				|
@@ -10,10 +10,10 @@ Assumtption:
 				|---data
        
 	
-  * The code to be executed resides in a subdirectory 'dag' and the data files to be processed, as well as results reside in 'data' subdirectory.  Both subdirecotries at the same level. 
-    
-Instructions:
+  * The code to be executed resides in a subdirectory 'dag' and the data files to be processed, as well as results reside in 'data' subdirectory.  Both subdirecotries at the same level.
   * This code was developed using Python 3.9.6.  The recomendation is to run the code using Python 3.5 and above.
+    
+## Instructions:
   * Prior to running the code, the following steps must be completed:
       1.- Ensure the directory structure descibed in the "Assumptions" section above exists.
       2.- Create a new python environment with python version 3.5 or above
